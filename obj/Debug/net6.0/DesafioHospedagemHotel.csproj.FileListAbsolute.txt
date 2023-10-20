@@ -1,0 +1,15 @@
+C:\Projetos\C#\DesafioHospedagemHotel\bin\Debug\net6.0\DesafioHospedagemHotel.exe
+C:\Projetos\C#\DesafioHospedagemHotel\bin\Debug\net6.0\DesafioHospedagemHotel.deps.json
+C:\Projetos\C#\DesafioHospedagemHotel\bin\Debug\net6.0\DesafioHospedagemHotel.runtimeconfig.json
+C:\Projetos\C#\DesafioHospedagemHotel\bin\Debug\net6.0\DesafioHospedagemHotel.dll
+C:\Projetos\C#\DesafioHospedagemHotel\bin\Debug\net6.0\DesafioHospedagemHotel.pdb
+C:\Projetos\C#\DesafioHospedagemHotel\obj\Debug\net6.0\DesafioHospedagemHotel.csproj.AssemblyReference.cache
+C:\Projetos\C#\DesafioHospedagemHotel\obj\Debug\net6.0\DesafioHospedagemHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\DesafioHospedagemHotel\obj\Debug\net6.0\DesafioHospedagemHotel.AssemblyInfoInputs.cache
+C:\Projetos\C#\DesafioHospedagemHotel\obj\Debug\net6.0\DesafioHospedagemHotel.AssemblyInfo.cs
+C:\Projetos\C#\DesafioHospedagemHotel\obj\Debug\net6.0\DesafioHospedagemHotel.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\DesafioHospedagemHotel\obj\Debug\net6.0\DesafioHospedagemHotel.dll
+C:\Projetos\C#\DesafioHospedagemHotel\obj\Debug\net6.0\refint\DesafioHospedagemHotel.dll
+C:\Projetos\C#\DesafioHospedagemHotel\obj\Debug\net6.0\DesafioHospedagemHotel.pdb
+C:\Projetos\C#\DesafioHospedagemHotel\obj\Debug\net6.0\DesafioHospedagemHotel.genruntimeconfig.cache
+C:\Projetos\C#\DesafioHospedagemHotel\obj\Debug\net6.0\ref\DesafioHospedagemHotel.dll
